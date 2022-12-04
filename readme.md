@@ -1,4 +1,5 @@
 - 👋 Hi! I'm [@ValgrindLLVM](https://github.com/ValgrindLLVM)
-- 🌱 Learning Rust, working on [ceheki/no-future-bot](https://github.com/ceheki/no-future-bot)
+- 🌱 Learning low-level languages like C and Rust
+- ⚙️ Working on [ValgrindLLVM/rens](https://github.com/ValgrindLLVM/rens)
 - Why you still reading this?
 
